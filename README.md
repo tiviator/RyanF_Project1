@@ -64,8 +64,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
-- Deployment and provisioning of the ELK server can be performed rapidly and repeatedly if the server is malfunctioning. Additionally the deployment and provisioning can be guaranteed to succeed as long as the Ansible playbook is configured correctly.
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because deployment and provisioning of the ELK server can be performed rapidly and repeatedly if the server is malfunctioning. Additionally the deployment and provisioning can be guaranteed to succeed as long as the Ansible playbook is configured correctly.
 
 The playbook implements the following tasks:
 
